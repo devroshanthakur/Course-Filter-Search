@@ -3,11 +3,11 @@
 
 A responsive website to search and filter courses by difficulty level. Built with **HTML**, **CSS**, and **JavaScript**. This project demonstrates a simple and intuitive UI for filtering and searching educational content.
 
-![Course Filter & Search](https://via.placeholder.com/800x400?text=Course+Filter+%26+Search)
+![Course Filter & Search](https://github.com/devroshanthakur/Course-Filter-Search/blob/79b9f5a032e9b2f1a9f6105ff1ad6ba044ca2b9e/image.png)
 
 ## 🚀 Live Demo
 
-Check out the live demo [here](https://devroshanthakur.github.io/course-filter-search).
+Check out the live demo [here](https://codepen.io/Roshan-Thakur-the-decoder/pen/LEPPbRM).
 
 ---
 
